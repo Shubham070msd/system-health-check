@@ -22,3 +22,4 @@ chmod +x health-check.sh
 
 ### 📊 Terminal View 2
 ![System Health Check Screenshot 2](screenshot2.png)
+
